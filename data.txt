@@ -1,0 +1,15 @@
+---Person---
+Adrien : adrien@gmail.com
+Florent : florent@gmail.com
+Jeane : jeane@gmail.com
+Justine : justine@gmail.com
+Lea : lea@gmail.com
+Maude : maude@gmail.com
+Kevin : kevin@gmail.com
+Lena : lena@gmail.com
+
+---Couple---
+Lea Lena
+Adrien Maude
+Florent Kevin
+
